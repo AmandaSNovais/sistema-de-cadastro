@@ -5,4 +5,4 @@
 Para rodar esse projeto em sua máquina por fazor digite:
 
 ```
-npm install react
+node app.js
